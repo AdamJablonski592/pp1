@@ -1,6 +1,3 @@
-from itertools import count
-
-
 countries = [
     {"name": "Poland", "population": 38000000},
     {"name": "France", "population": 67000000},
